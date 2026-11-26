@@ -98,6 +98,18 @@
 
 ---
 
+<h3 align="center">Activity &amp; Streak</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Shyamiscoding&hide_border=true&background=0d1117&stroke=D4AF37&ring=F5D067&fire=F5D067&currStreakLabel=F5D067&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shyamiscoding&bg_color=0d1117&color=f5d067&line=d4af37&point=f5f6fa&area=true&area_color=d4af37&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+</p>
+
+---
+
 <p align="center">
   <i>"Anyone can prompt. The 1% master the fundamentals — and own what they build."</i>
 </p>
